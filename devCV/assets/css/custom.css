@@ -13,3 +13,9 @@ body {
   list-style-type: disc;
   padding-left: 20px;
 }
+
+@media print {
+  .no-print {
+    display: none !important;
+  }
+}
