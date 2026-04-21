@@ -1,0 +1,15 @@
+body {
+  font-family: 'EB Garamond', serif;
+  background-color: antiquewhite;
+}
+
+.resume-profile-image {
+  width: 150px;
+  object-fit: cover;
+  border-radius: 50% !important;
+}
+
+.skills-bullets {
+  list-style-type: disc;
+  padding-left: 20px;
+}

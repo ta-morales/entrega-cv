@@ -166,3 +166,10 @@ h5 { font-weight: bold; }
 	@media only screen and (max-width: 420px) {
 		#extra-skills { display: none; }
 	}
+
+.resume-profile-image {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+}
